@@ -2,6 +2,30 @@
 
 # AI VIRTUAL ASSISTANT
 This is your AI Virtual Assistant. The application is developed by the OpenAI's Chat GPT API "gpt-3.5-turbo" and Flasks.
+
+🚀 Features
+
+🌐 Web-based interface – Simple and clean chat UI built with Bootstrap.
+
+🤖 AI-powered responses – Uses NLP models (Hugging Face / OpenAI) to answer queries.
+
+🎨 Custom UI/UX – User and bot messages styled with avatars for better readability.
+
+⚡ Flask backend – Lightweight Python server handling API calls.
+
+🖼️ Static resources – CSS and images included for personalization.
+
+🔌 Easy integration – Extendable with other ML/DL models.
+
+🛠️ Tech Stack
+
+Backend: Python, Flask
+
+Frontend: HTML, CSS, Bootstrap, JavaScript
+
+AI Model: OpenAI GPT / Hugging Face DialoGPT
+
+Version Control: Git, GitHub
 # Step By Step Instruction
 1. **Install Python on your computer:**
    * Visit the official Python website (https://www.python.org) and download the latest version of Python suitable for your operating system.
