@@ -1,0 +1,12 @@
+
+openai.api_key = 'YOsk-svcacct-pkXKfIc73eYKHMSkWPJvZ2eyU2p7ZfhQd44duzqfl_NmVzgQOw_gJKNPrSTTLoR8lRwD7zTIaNT3BlbkFJwzN6juhMQfGNw2RtWztJIYgJvxgQ28HCtfEkJw0V5Yx1J1aNxmI_fCWXS9AWCzTxu3sMN5AK4A'
+
+
+openai.api_key = 'YOsk-svcacct-pkXKfIc73eYKHMSkWPJvZ2eyU2p7ZfhQd44duzqfl_NmVzgQOw_gJKNPrSTTLoR8lRwD7zTIaNT3BlbkFJwzN6juhMQfGNw2RtWztJIYgJvxgQ28HCtfEkJw0V5Yx1J1aNxmI_fCWXS9AWCzTxu3sMN5AK4A'
+
+##new key
+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
+
+flask secret key
+python -c "import secrets; print(secrets.token_hex(32))"
+2bd90b4597a606f2afef493ebc5d2995e3fa5925fced7498c028645da0995d8f
